@@ -56,7 +56,7 @@ source $HOME/.config/nvim/vim-plug/plugins.vim
 * Open nvim
   ```vim
   nvim 
-  :
+  : NERDTreeToggle
   ```
 * Check the status of your plugins
   ```vim
